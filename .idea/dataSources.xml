@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3011433077">
+    <data-source source="LOCAL" name="Rails sur: development" uuid="5a488f67-54a4-48f9-baf7-ba662c79e153">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/s_development</jdbc-url>
+      <user-name>rails_user</user-name>
+      <user-password>dfd8dfcbdfc3dfc6dfd9dff5dfdfdfd9dfcfdfd8</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails sur: test" uuid="6f06b640-8f3c-43de-b2d5-86802c10f6d3">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/s_test</jdbc-url>
+      <user-name>rails_user</user-name>
+      <user-password>dfd8dfcbdfc3dfc6dfd9dff5dfdfdfd9dfcfdfd8</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails sur: production" uuid="4ff785df-05f5-4367-9975-ebf9019ab07e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:s_production</jdbc-url>
+      <user-name>rails_user</user-name>
+      <user-password>dfd8dfcbdfc3dfc6dfd9dff5dfdfdfd9dfcfdfd8</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
